@@ -40,7 +40,4 @@ class GFG
                 " in Next Fit : " + nextFit(weight, n, c));
     }
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
+
